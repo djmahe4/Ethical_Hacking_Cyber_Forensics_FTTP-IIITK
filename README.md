@@ -9,5 +9,8 @@ LAB Walkthroughs not updated!(including data carving exercise)
 ## Day 4
 Suricata walkthrough needs to be updated
 [PDF](https://github.com/djmahe4/Ethical_Hacking_Cyber_Forensics_FTTP-IIITK/blob/main/day4_sttp_on_Ethical_Hacking_and_Cyber_Forensics.pdf)
+## Day 5
+Basic tryhackme walkthough
+[PDF](https://github.com/djmahe4/Ethical_Hacking_Cyber_Forensics_FTTP-IIITK/blob/main/day5_sttp_on_Ethical_Hacking_and_Cyber_Forensics.pdf)
 ## Additional resources 
 - [Penetration Testing using Kali Linux](https://github.com/djmahe4/Ethical_Hacking_Cyber_Forensics_FTTP-IIITK/blob/main/Penetration%20Testing%20with%20Kali%20Linux.pdf)

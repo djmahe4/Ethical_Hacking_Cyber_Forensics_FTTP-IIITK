@@ -1,4 +1,4 @@
 # Ethical_Hacking_Cyber_Forensics_FTTP-IIITK
 
 ## Additional resources 
-- (Penetration Testing using Kali Linux)[https://github.com/djmahe4/Ethical_Hacking_Cyber_Forensics_FTTP-IIITK/blob/main/Penetration%20Testing%20with%20Kali%20Linux.pdf]
+- [Penetration Testing using Kali Linux](https://github.com/djmahe4/Ethical_Hacking_Cyber_Forensics_FTTP-IIITK/blob/main/Penetration%20Testing%20with%20Kali%20Linux.pdf)

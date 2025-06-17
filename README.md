@@ -17,5 +17,7 @@ Basic tryhackme walkthough
 - [GTFOBins](https://gtfobins.github.io/)
 ## Day 6: Vulnerability analysis using metasploit ; Malware Analysis
 [PDF](https://github.com/djmahe4/Ethical_Hacking_Cyber_Forensics_FTTP-IIITK/blob/main/day6_sttp_on_Ethical_Hacking_and_Cyber_Forensics.pdf)
+## Day 7: Digital Forensics Data Acquisition and Analysis ; Memory Forensics to Detect Malicious Executables
+[PDF](https://github.com/djmahe4/Ethical_Hacking_Cyber_Forensics_FTTP-IIITK/blob/main/day7_sttp_on_Ethical_Hacking_and_Cyber_Forensics.pdf)
 ## Additional resources 
 - [Penetration Testing using Kali Linux](https://github.com/djmahe4/Ethical_Hacking_Cyber_Forensics_FTTP-IIITK/blob/main/Penetration%20Testing%20with%20Kali%20Linux.pdf)

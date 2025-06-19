@@ -21,5 +21,7 @@ Basic tryhackme walkthough
 [PDF](https://github.com/djmahe4/Ethical_Hacking_Cyber_Forensics_FTTP-IIITK/blob/main/day7_sttp_on_Ethical_Hacking_and_Cyber_Forensics.pdf)
 ## Day 8: Reverse Engineering Mobile Apps ; Disk Forensics using Autopsy
 [PDF](https://github.com/djmahe4/Ethical_Hacking_Cyber_Forensics_FTTP-IIITK/blob/main/day8_sttp_on_Ethical_Hacking_and_Cyber_Forensics.pdf)
+## Day 9: Multimedia Forensics
+[PDF](https://github.com/djmahe4/Ethical_Hacking_Cyber_Forensics_FTTP-IIITK/blob/main/day9_sttp_on_Ethical_Hacking_and_Cyber_Forensics.pdf)
 ## Additional resources 
 - [Penetration Testing using Kali Linux](https://github.com/djmahe4/Ethical_Hacking_Cyber_Forensics_FTTP-IIITK/blob/main/Penetration%20Testing%20with%20Kali%20Linux.pdf)

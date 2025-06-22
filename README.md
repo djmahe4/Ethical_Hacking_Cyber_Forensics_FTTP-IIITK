@@ -23,6 +23,8 @@ Basic tryhackme walkthough
 [PDF](https://github.com/djmahe4/Ethical_Hacking_Cyber_Forensics_FTTP-IIITK/blob/main/day8_sttp_on_Ethical_Hacking_and_Cyber_Forensics.pdf)
 ## Day 9: Multimedia Forensics
 [PDF](https://github.com/djmahe4/Ethical_Hacking_Cyber_Forensics_FTTP-IIITK/blob/main/day9_sttp_on_Ethical_Hacking_and_Cyber_Forensics.pdf)
+## Day 10: Threat intelligence ; MCQ Questions(Options not included)
+[PDF](https://github.com/djmahe4/Ethical_Hacking_Cyber_Forensics_FTTP-IIITK/blob/main/day10_sttp_on_Ethical_Hacking_and_Cyber_Forensics.pdf)
 ## Additional resources 
 - [Penetration Testing using Kali Linux](https://github.com/djmahe4/Ethical_Hacking_Cyber_Forensics_FTTP-IIITK/blob/main/Penetration%20Testing%20with%20Kali%20Linux.pdf)
 - [Bug Bounty Resources](https://github.com/djmahe4/bug-bounty/blob/main/README.md#other-usefull-links)
